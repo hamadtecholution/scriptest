@@ -1,0 +1,8 @@
+Author: Hamad Khan <hamad.khan@techolution.com>
+Date:   Fri Jan 27 09:45:37 2023 +0530
+
+    removed file and modified other 3
+
+:100644 000000 9daeafb 0000000 D        x.py
+:100644 000000 9daeafb 0000000 D        y.py
+:100644 000000 9daeafb 0000000 D        z.py
